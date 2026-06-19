@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="database" path="focusguard.db-shm" />
+        <exclude domain="database" path="focusguard.db-wal" />
+    </cloud-backup>
+</data-extraction-rules>

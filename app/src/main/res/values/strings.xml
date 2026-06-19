@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusGuard</string>
+    <string name="notification_listener_label">FocusGuard Notification Filter</string>
+    <string name="notification_channel_service">FocusGuard Service</string>
+    <string name="notification_channel_service_desc">Keeps FocusGuard active to filter calls and notifications</string>
+</resources>
